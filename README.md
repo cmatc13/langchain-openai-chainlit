@@ -37,7 +37,8 @@ cd langchain-openai-chainlit
 
 3. Create a virtualenv and activate it
    ```
-   python3 -m venv .venv && source .venv/bin/activate
+   python3 -m venv .venv
+   .\.venv\Scripts\activate
    ```
 
    If you have python 3.11, then the above command is fine. But, if you have python version less than 3.11. Using conda is easier. First make sure that you have conda installed. Then run the following command.
