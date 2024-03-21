@@ -26,7 +26,7 @@ When using python 3.10, got the following error message. Need to use python 3.11
 
 1. Fork this repository and create a codespace in GitHub as I showed you in the youtube video OR Clone it locally.
 ```
-git clone https://github.com/sudarshan-koirala/langchain-openai-chainlit.git
+git clone https://github.com/cmatc13/langchain-openai-chainlit.git
 cd langchain-openai-chainlit
 ```
 
